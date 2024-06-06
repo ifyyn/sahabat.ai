@@ -1,0 +1,13 @@
+/* src/assets/tailwind.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: white;
+}
+
+#app{
+    max-width: 980px;
+    margin: 0 auto;
+}
