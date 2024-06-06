@@ -19,8 +19,8 @@ export default {
     return {
       currentIndex: 0,
       authors: [
-        { name: 'Husain', description: 'Description for Author 1' },
-        { name: 'Aini', description: 'Description for Author 2' },
+        { name: 'Mustofa Husain', description: 'Design Researcer' },
+        { name: 'Naflah Qurrotun Aini', description: 'Data Engineer' },
         { name: 'Farhan', description: 'Mechine Learning Engineer' },
         { name: 'Fathul Arifin', description: 'Mechine Learning Ops (MLOps)' }
       ]
